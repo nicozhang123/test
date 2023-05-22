@@ -1,0 +1,42 @@
+C:\Users\DELL\Desktop\SOCKET\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Desktop\SOCKET\Server\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\SOCKET\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\SOCKET\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\SOCKET\Server\obj\Debug\Server.Form1.resources
+C:\Users\DELL\Desktop\SOCKET\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Desktop\SOCKET\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\SOCKET\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SOCKET\Server\obj\Debug\Server.exe
+C:\Users\DELL\Desktop\SOCKET\Server\obj\Debug\Server.pdb
+F:\Project\SOCKET\Server\bin\Debug\Server.exe.config
+F:\Project\SOCKET\Server\bin\Debug\Server.exe
+F:\Project\SOCKET\Server\bin\Debug\Server.pdb
+F:\Project\SOCKET\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Project\SOCKET\Server\obj\Debug\Server.Form1.resources
+F:\Project\SOCKET\Server\obj\Debug\Server.Properties.Resources.resources
+F:\Project\SOCKET\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\Project\SOCKET\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Project\SOCKET\Server\obj\Debug\Server.exe
+F:\Project\SOCKET\Server\obj\Debug\Server.pdb
+E:\711 项目\Server\bin\Debug\Server.exe.config
+E:\711 项目\Server\bin\Debug\Server.exe
+E:\711 项目\Server\bin\Debug\Server.pdb
+E:\711 项目\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\711 项目\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\711 项目\Server\obj\Debug\Server.Form1.resources
+E:\711 项目\Server\obj\Debug\Server.Properties.Resources.resources
+E:\711 项目\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\711 项目\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\711 项目\Server\obj\Debug\Server.exe
+E:\711 项目\Server\obj\Debug\Server.pdb
+E:\711 Assignment 1\Cache\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\711 Assignment 1\Cache\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\711 Assignment 1\Cache\obj\Debug\Server.Form1.resources
+E:\711 Assignment 1\Cache\obj\Debug\Server.csproj.GenerateResource.cache
+E:\711 Assignment 1\Cache\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\711 Assignment 1\Cache\bin\Debug\Cache.exe.config
+E:\711 Assignment 1\Cache\bin\Debug\Cache.exe
+E:\711 Assignment 1\Cache\bin\Debug\Cache.pdb
+E:\711 Assignment 1\Cache\obj\Debug\Cache.Properties.Resources.resources
+E:\711 Assignment 1\Cache\obj\Debug\Cache.exe
+E:\711 Assignment 1\Cache\obj\Debug\Cache.pdb
